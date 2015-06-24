@@ -4,9 +4,11 @@ a tiny tool to apply semantic file names to webfonts included in fonts.com self-
 
 ## What it does
 
-![#fancy-gif-include-here]()
+![fancy-finder-gif-here](https://github.com/preciousforever/rename-fonts.com-download-kit-webfonts/blob/master/info/finder-before-and-after.gif)
 
-## Use
+![fancy-finder-gif-here](https://github.com/preciousforever/rename-fonts.com-download-kit-webfonts/blob/master/info/code-before-and-after.gif)
+
+## Useage
 
 You need https://nodejs.org/
 
