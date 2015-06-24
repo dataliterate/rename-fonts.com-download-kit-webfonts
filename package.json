@@ -1,0 +1,28 @@
+{
+  "name": "rename-fonts.com-download-kit-files",
+  "version": "1.0.0",
+  "description": "a tool to apply semantic file names to webfonts included in fonts.com self-host download kits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/preciousforever/rename-fonts.com-download-kit-webfonts"
+  },
+  "keywords": [
+    "tool",
+    "webfonts"
+  ],
+  "author": "Michael Schieben <michael@precious-forever.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/preciousforever/rename-fonts.com-download-kit-webfonts/issues"
+  },
+  "homepage": "https://github.com/preciousforever/rename-fonts.com-download-kit-webfonts",
+  "dependencies": {
+    "command-line-args": "^0.5.9",
+    "lodash": "^3.9.3",
+    "rework": "^1.0.1"
+  }
+}
